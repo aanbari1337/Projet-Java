@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Presentation"/>
+	<classpathentry kind="src" path="Persistance"/>
+	<classpathentry kind="src" path="Utils"/>
+	<classpathentry kind="src" path="Metier"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="libs/mongo-java-driver-3.11.0-beta3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BackOffice"/>
+	<classpathentry kind="lib" path="libs/flatlaf-demo-0.34.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

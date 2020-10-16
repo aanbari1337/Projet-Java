@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Presentation"/>
+	<classpathentry kind="src" path="Persistance"/>
+	<classpathentry kind="src" path="Metier"/>
+	<classpathentry kind="src" path="Utils"/>
+	<classpathentry kind="lib" path="libs/flatlaf-demo-0.34.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.5.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/front office"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BackOffice"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
